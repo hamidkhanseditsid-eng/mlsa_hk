@@ -16,7 +16,7 @@ Work through the sections in order if you're starting from zero. Skip ahead if y
 
 - [ ] [Build web pages with HTML and CSS for beginners](https://learn.microsoft.com/en-us/training/paths/build-web-pages-html-css-for-beginners/?wt.mc_id=studentamb_574481)
 - [ ] [Get started with web development using VS Code](https://learn.microsoft.com/en-us/training/modules/get-started-with-web-development/?wt.mc_id=studentamb_574481) — your editor setup, done right, before it becomes a bad habit
-- [ ] [Build JavaScript applications with Node.js](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-nodejs/?wt.mc_id=studentamb_574481)
+- [ ] [Beginner's Series to: JavaScript](https://learn.microsoft.com/en-us/shows/beginners-series-to-javascript/) — Microsoft retired its old Node.js learning path, so this video series is the current official replacement for core JS concepts
 - [ ] [Publish a React, Angular, Vue, or Svelte app with Azure Static Web Apps](https://learn.microsoft.com/en-us/training/modules/publish-app-service-static-web-app-api/?wt.mc_id=studentamb_574481) — pick whichever framework you're already learning; this module is framework-agnostic on purpose
 
 ## 3. Backend
@@ -27,7 +27,7 @@ Work through the sections in order if you're starting from zero. Skip ahead if y
 
 ## 4. Databases
 
-- [ ] [Work with relational data in Azure](https://learn.microsoft.com/en-us/training/paths/work-with-relational-data-in-azure/?wt.mc_id=studentamb_574481) — SQL Server, PostgreSQL, MySQL, hosted
+- [ ] [Explore relational data in Azure](https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-relational-data/?wt.mc_id=studentamb_574481) — SQL Server, PostgreSQL, MySQL, hosted
 - [ ] [Develop data-driven applications by using Azure SQL Database](https://learn.microsoft.com/en-us/training/paths/develop-data-driven-app-sql-db/?wt.mc_id=studentamb_574481) — connecting an actual app to an actual database
 
 ## 5. Mobile & cross-platform apps
